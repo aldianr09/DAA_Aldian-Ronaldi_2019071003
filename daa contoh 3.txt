@@ -1,0 +1,15 @@
+3.hitung jarak
+t = 240 detik
+v = 1 meter/detik
+algoritma ;
+1. mendeklarasikan v(kecepatan), t(waktu), s(jarak)
+2. masukan t = 240 ,v = 1
+3. hitung s = t x v 
+4. menampilkan hasil
+Pseudocode:
+deklarasi
+var t,v,s
+t ← 240
+v ← 1 
+s = t*v
+write(s)
